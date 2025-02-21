@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is fady and I'm a software engineer from egypt</h2>
 
 ###
-<a href="https://imgflip.com/i/9l2pfc"><img src="https://i.imgflip.com/9l2pfc.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<a href="https://imgflip.com/i/9l2pfc"><img src="https://i.imgflip.com/9l2pfc.jpg" title="made at imgflip.com"/></a><div></div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fadyMounir10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
